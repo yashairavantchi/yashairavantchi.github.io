@@ -9,7 +9,7 @@ description: Yasha Iravantchi's talks
 ###  2016
 
 **How to Make Your Own Wearable (Pre-collegiate Program Workshop)**
-[![ppt](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdf/Wearables_Summer2016.pdf)
+[![ppt](icons16/ppt-icon.png)]({{ BASE_PATH }}/assets/pdf/Wearables_Summer2016.pdf)
 [![pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdf/Wearables_Summer2016_Handout.pdf)
 
 [Harvard Active Learning Labs](https://www.seas.harvard.edu/active-learning-labs), Cambridge, MA 
@@ -35,19 +35,19 @@ description: Yasha Iravantchi's talks
 
 
 **How to Measure Things (ES100 Sensior Capstone Workshop)**
-[![ppt](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdf/howtomeasurethings.pdf)
+[![ppt](icons16/ppt-icon.png)]({{ BASE_PATH }}/assets/pdf/howtomeasurethings.pdf)
 
 [Harvard Active Learning Labs](https://www.seas.harvard.edu/active-learning-labs), Cambridge, MA 
 (_Oct 2015_)
 
 **How to Control and Sense (ES100 Sensior Capstone Workshop)**
-[![ppt](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdf/howtocontrolandsense.pdf)
+[![ppt](icons16/ppt-icon.png)]({{ BASE_PATH }}/assets/pdf/howtocontrolandsense.pdf)
 
 [Harvard Active Learning Labs](https://www.seas.harvard.edu/active-learning-labs), Cambridge, MA 
 (_Sept 2015_)
 
 **EE Zero-to-Sixty Workshop**
-[![ppt](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdf/Zero-to-Sixty.pdf)
+[![ppt](icons16/ppt-icon.png)]({{ BASE_PATH }}/assets/pdf/Zero-to-Sixty.pdf)
 [![html](icons16/html-icon.png)](https://www.seas.harvard.edu/teaching-labs/wintersession-2015)
 
 [Harvard Active Learning Labs](https://www.seas.harvard.edu/active-learning-labs), Cambridge, MA 
@@ -58,7 +58,7 @@ description: Yasha Iravantchi's talks
 ###  2014
 
 **Data Measurement and Analysis (ES 100 Senior Capstone Lecture)**
-[![ppt](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdf/Measuring_ES100.pdf)
+[![ppt](icons16/ppt-icon.png)]({{ BASE_PATH }}/assets/pdf/Measuring_ES100.pdf)
 
 [Harvard Active Learning Labs](https://www.seas.harvard.edu/active-learning-labs), Cambridge, MA 
 (_Oct 2014_)
