@@ -18,7 +18,7 @@ description: Yasha Iravantchi's talks
 **"Labs in the Wild": Teaching Signal Processing Using Wearables and Jupyter Notebooks in the Cloud**
 [![ppt](icons16/ppt-icon.png)](https://docs.google.com/presentation/d/1bPhmXAmXpd-pwArVMlKfe34wDgWhY0wA56ERL6CSNcw/edit?usp=sharing)
 
-[JupyterDays Boston](http://scipy2016.scipy.org/ehome/index.php?eventid=146062&tabid=332930&), Austin, TX
+[SciPy 2016](http://scipy2016.scipy.org/ehome/index.php?eventid=146062&tabid=332930&), Austin, TX
 (_Jul 14 2016_)
 
 
