@@ -17,6 +17,12 @@ description: Yasha Iravantchi's projects
 
 ### <a name="current"></a>Current Projects
 
+**Electrical Engineering Maker Space**
+	
+	* Create a Maker Space for engineering and non-engineering students to explore prototyping and circuit design
+	* Manage a lending library of electronic instrumentation, such as oscilloscopes, power supplies, and waveform generators
+	* Oversee fabrication through 3-D printing, laser cutting, and electronics soldering
+
 
 **Electrical Engineering Fabrication Cart**
 

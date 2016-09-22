@@ -11,7 +11,7 @@ I graduated from Harvard University in 2014 with an SB degree in Engineering Sci
 
 Since graduation, I started working at the Harvard Active Learning Labs as a Design Specialist, supporting courses that involve hands-on labs and projects. In addition, I create workshops to instruct "Design Thinking". Most recently, I was a Teaching Fellow for ES 155 (Biological Signal Processing) and lab and fabrication support for ES 151 (Applied Electromagnetics). Please see my "Teaching" and "Talks" pages for more information.
 
-I'm interested in a wide varitey of projects, but I have a particular interested in fabrication, wearables, ubiquitous computing, and signal processing with a focus on biosignals. My advisor was Krzysztof Gajos and my senior project was "Robust Eye Blink--Based Selection Technique for Gaze-Based Interaction". Please see my "Projects" and "Publications" pages for more information. 
+I'm interested in a wide varitey of projects, but I have a particular interested in fabrication, wearables, ubiquitous computing, and biological signal processing. My advisor was Krzysztof Gajos and my senior project was "Robust Eye Blink--Based Selection Technique for Gaze-Based Interaction". Please see my "Projects" and "Publications" pages for more information. 
 
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdf/IravantchiCV.pdf)
 

@@ -1,8 +1,8 @@
 ---
 layout: frontpage
 title: Yasha Iravantchi
-description: Yasha Iravantchi is Design Specialist at Harvard University Active Learning Labs.
-keywords: HCI, EE/CS, Electrical Engineering, Computer Science, BCI, Human-Computer Interaction, Fabrication, Wearables
+description: Yasha Iravantchi is a Design Specialist at Harvard University Active Learning Labs. His research interests are in fabrication, wearables, ubiquitous computing, and biological signal processing.
+keywords: HCI, EE/CS, Electrical Engineering, Computer Science, BCI, Human-Computer Interaction, Fabrication, Wearables, Yasha, Iravantchi, Ubiquitous, Future, Interfaces
 ---
 
 Yasha Iravantchi is a Design Specialist at the 

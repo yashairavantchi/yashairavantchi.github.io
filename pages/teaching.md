@@ -27,20 +27,14 @@ Course Development, Course Support, and Teaching Fellow
 	* Graded homework and labs, created and graded midterm and finals problems
 	* Assisted and advised final projects, provided specialzied hardware assistance as needed
 
-**[Applied Electromagnetics](https://locator.tlt.harvard.edu/course/colgsas-143005)** (ES 151; Spring 2016): 
 
-Course Support
-	
-	* Set up and led lab experiments
-	* Led patch antenna fabrication instruction using FabModules and Roland monoFAB SRM-20 Mill (similar to Modela)
-
-**[Introduction to Electrical Engineering](http://isites.harvard.edu/course/colgsas-4499)** (ES 50; Fall 2014, Fall 2015): 
+**[Introduction to Electrical Engineering](http://isites.harvard.edu/course/colgsas-4499)** (ES 50; Fall 2014, Fall 2015, Fall 2016): 
 
 Course Support
 
 	* Instructed Teaching Fellows on how to use and instruct the use of a laser cutter
 
-**[Senior Capstone Engineering Design Projects](http://isites.harvard.edu/course/colgsas-7535)** (ES 100; 2014, 2015): 
+**[Senior Capstone Engineering Design Projects](http://isites.harvard.edu/course/colgsas-7535)** (ES 100; 2014, 2015, 2016): 
 
 Course Support
 	
@@ -52,6 +46,13 @@ Course Support
 ---
 
 ### <a name="old"></a>Former Courses
+
+**[Applied Electromagnetics](https://locator.tlt.harvard.edu/course/colgsas-143005)** (ES 151; Spring 2016): 
+
+Course Support
+	
+	* Set up and led lab experiments
+	* Led patch antenna fabrication instruction using FabModules and Roland monoFAB SRM-20 Mill (similar to Modela)
 
 **[Introduction to Electrical Engineering](http://isites.harvard.edu/course/colgsas-4499)** (ES 50; Spring 2012, 2013): 
 
