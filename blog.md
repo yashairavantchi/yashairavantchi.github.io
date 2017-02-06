@@ -4,7 +4,6 @@ title: Blog
 permalink: /blog/
 ---
 
-Tell us about your blog. Hopefully it's cool.
 
 <ul class="listing">
 {% for post in site.posts %}
@@ -18,4 +17,11 @@ Tell us about your blog. Hopefully it's cool.
     <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
   </li>
 {% endfor %}
+</ul>
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
 </ul>
