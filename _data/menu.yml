@@ -8,13 +8,13 @@
   href: "/academics/"
   subcategories:
     - subtitle: "Research"
-      subhref: "/academics/research/"
+      subhref: "/academics/research"
     - subtitle: "Teaching"
-      subhref: "/academics/teaching/"
+      subhref: "/academics/teaching"
     - subtitle: "Talks"
-      subhref: "/academics/talks/"
+      subhref: "/academics/talks"
     - subtitle: "Projects"
-      subhref: "/academics/projects/"
+      subhref: "/academics/projects"
 
 - title: "Blog"
   href: "/blog/"
