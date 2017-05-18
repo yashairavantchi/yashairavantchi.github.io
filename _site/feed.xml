@@ -6,32 +6,9 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 13 Feb 2017 13:36:56 -0500</pubDate>
-    <lastBuildDate>Mon, 13 Feb 2017 13:36:56 -0500</lastBuildDate>
-    <generator>Jekyll v3.3.1</generator>
-    
-      <item>
-        <title>Refreshed Jekyll</title>
-        <description>&lt;p&gt;Today, I decided it was finally time to update my Jekyll site hosted on github.io.&lt;/p&gt;
-
-&lt;p&gt;What should have taken 2 minutes took a whole day thanks to some Ruby/MacOS Sierra/Jekyll issues. Turns out for whatever reason Ruby 2.4.0 on MacOS Sierra does not play nice with Jekyll. Something about a JSON 1.8.2 gem not installing properly. Ugh.&lt;/p&gt;
-
-&lt;p&gt;Anyways, it’s finally done. Phew!&lt;/p&gt;
-</description>
-        <pubDate>Mon, 06 Feb 2017 11:30:00 -0500</pubDate>
-        <link>http://localhost:4000/post/refresh-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000/post/refresh-jekyll/</guid>
-        
-        <category>github</category>
-        
-        <category>github-pages</category>
-        
-        <category>jekyll</category>
-        
-        
-        <category>programming</category>
-        
-      </item>
+    <pubDate>Thu, 18 May 2017 14:09:12 -0400</pubDate>
+    <lastBuildDate>Thu, 18 May 2017 14:09:12 -0400</lastBuildDate>
+    <generator>Jekyll v3.4.3</generator>
     
   </channel>
 </rss>

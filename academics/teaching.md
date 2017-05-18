@@ -19,11 +19,19 @@ description: Yasha Iravantchi's teaching
 
 
 
-**[Senior Capstone Engineering Design Projects](http://isites.harvard.edu/course/colgsas-7535)** (ES 100; 2014, 2015, 2016): 
+**[Senior Capstone Engineering Design Projects](http://isites.harvard.edu/course/colgsas-7535)** (ES 100; 2014, 2015, 2016, 2017): 
 
 Course Support
 	
 	* Assist students in their Senior Capstone project
+
+**[The Joy of Electronics - Part I](https://locator.tlt.harvard.edu/course/colgsas-109809)** (ES 52; 2014, 2015, 2016, 2017): 
+
+Course Support
+	
+	* Assist faculty in supporting Labratory Electronics activities
+	* Assist students in final projects
+	* Stock and supply labratory and maintain EE equipment
 
 ---
 

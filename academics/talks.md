@@ -16,14 +16,14 @@ description: Yasha Iravantchi's talks
 (_Jul 19 2016_)
 
 **"Labs in the Wild": Teaching Signal Processing Using Wearables and Jupyter Notebooks in the Cloud**
-[![ppt](/assets/icons16/ppt-icon.png)](https://docs.google.com/presentation/d/1bPhmXAmXpd-pwArVMlKfe34wDgWhY0wA56ERL6CSNcw/edit?usp=sharing)
+[![ppt](/assets/icons16/ppt-icon.png)]({{ BASE_PATH }}/assets/pdf/Scipy2016v2.pdf)
 
 [SciPy 2016](http://scipy2016.scipy.org/ehome/index.php?eventid=146062&tabid=332930&), Austin, TX
 (_Jul 14 2016_)
 
 
 **Wearable Signal Processing Using Docker Notebook Containers on AWS**
-[![ppt](/assets/icons16/ppt-icon.png)](https://docs.google.com/presentation/d/1HDruA4y6GhSHER1Tn2E3vAsgH8QWqqO2YDrXbiCo1XQ/edit#slide=id.p)
+[![ppt](/assets/icons16/ppt-icon.png)]({{ BASE_PATH }}/assets/pdf/JupyterDaysPresentation.pdf)
 [![github](/assets/icons16/github-icon.png)](https://github.com/odewahn/jdboston16)<br/>
 
 [JupyterDays Boston](http://altbibl.io/gazette/jupyterdays-day-1/), Cambridge, MA
