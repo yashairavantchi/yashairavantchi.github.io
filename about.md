@@ -40,7 +40,3 @@ I'm interested in a wide varitey of projects, but I have a particular interested
             <div id="hide_email">
             Email: ysi [at] cmu [dot] edu
             </div>
-        </div>
-
-    </div>
-</div>
