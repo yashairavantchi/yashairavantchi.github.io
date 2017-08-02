@@ -8,14 +8,16 @@ permalink: /about/
 {% include image.html url="/assets/pics/yasha_small.jpg" width=200 align="right" %}
 ---
 
-I am a Design Specialist at the 
-[Harvard University SEAS Active Learning Labs](https://www.seas.harvard.edu/active-learning-labs)
+Hello!
 
-I graduated from Harvard University in 2014 with an SB degree in Engineering Sciences with a focus on Biomedical Engineering and Electrical Engineering/Computer Science.
+Hello! I am a Ph.D. student at the [Human-Computer Interaction Institute at Carnegie Mellon](https://www.hcii.cmu.edu/)
 
-Since graduation, I started working at the Harvard Active Learning Labs as a Design Specialist, supporting courses that involve hands-on labs and projects. In addition, I create workshops to instruct "Design Thinking". Most recently, I have been advising students in their Senior Capstone Project and acting as Course Support for our intro circuits course. Please see my "Teaching" and "Talks" pages for more information.
+I graduated from Harvard University in 2014 with an SB degree in Engineering Sciences with a focus on Electrical Engineering/Computer Science and Biomedical Engineering.
 
-I'm interested in a wide varitey of projects, but I have a particular interested in fabrication, wearables, ubiquitous computing, and biological signal processing. My advisor was Krzysztof Gajos and my senior project was "Robust Eye Blink--Based Selection Technique for Gaze-Based Interaction". Please see my "Projects" and "Publications" pages for more information. 
+Since undergrad, I started working at the 
+[Harvard University SEAS Active Learning Labs](https://www.seas.harvard.edu/active-learning-labs) as a Design Specialist in Electrical Engineering, supporting courses that involve hands-on labs and projects. In addition, I create workshops to instruct "Design Thinking". Additionally, I advised students in their Senior Capstone Project and was a Teaching Fellow for our biosignal processing course. Please see my ["Teaching"](http://yasha.xyz/academics/teaching/) and ["Talks"](http://yasha.xyz/academics/talks/) pages for more information.
+
+I'm interested in a wide varitey of projects, but I have a particular interested in fabrication, wearables, ubiquitous computing, and biological signal processing. Please see my ["Projects"](http://yasha.xyz/academics/projects/) and ["Research"](http://yasha.xyz/academics/research/) pages for more information. 
 
 [curriculum vitae ![CV as pdf](/assets/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdf/IravantchiCV.pdf)
 
@@ -28,15 +30,15 @@ I'm interested in a wide varitey of projects, but I have a particular interested
     <div class="row-fluid">
         <div class="span5">
             Yasha Iravantchi<br/>
-            <a href="https://www.seas.harvard.edu/active-learning-labs">Active Learning Labs</a><br/>
-            <a href="https://seas.harvard.edu">Harvard University School of Engineering and Applied Sciences</a><br/>
-            <a href="https://www.google.com/maps?q=29+Oxford+Street,+Cambridge,+MA&hl=en&ll=42.378614,-71.116583&spn=0.009606,0.021329&sll=42.378472,-71.116519&sspn=0.009606,0.021329&hnear=29+Oxford+St,+Cambridge,+Massachusetts+02138&t=m&z=16">Pierce Hall</a><br/>
-            29 Oxford St.<br/>
-            Cambridge, MA 02138<br/>
+            <a href="https://www.hcii.cmu.edu/">Human-Computer Interation Institute/a><br/>
+            <a href="https://cmu.edu">Carnegie Mellon University</a><br/>
+            <a href="https://www.google.com/maps/place/Human-Computer+Interaction+Institute+at+Carnegie+Mellon+University/@40.443562,-79.943168,15z/data=!4m2!3m1!1s0x0:0xdd7e54321497b114?sa=X&ved=0ahUKEwie6dqMirnVAhUs2oMKHdgnCC0Q_BIIfDAK">HCII</a><br/>
+            5000 Forbes Ave.<br/>
+            Pittsburgh, PA 15213<br/>
             USA<br/><br/>
 
             <div id="hide_email">
-            Email: yasha [at] seas [dot] harvard [dot] edu
+            Email: ysi [at] cmu [dot] edu
             </div>
         </div>
 
