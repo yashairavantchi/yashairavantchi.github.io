@@ -1,6 +1,6 @@
 # Site settings
 title: Yasha Iravantchi
-email: yasha@seas.harvard.edu
+email: ysi [at] cs [dot] cmu [dot] edu
 description: > # this means to ignore newlines until "baseurl:"
   Yasha Iravantchi's personal website.
 baseurl: "" # the subpath of your site, e.g. /blog/
@@ -13,7 +13,7 @@ markdown: kramdown
 
 # Other options
 permalink: blog/:year/:month/:title
-job.title: "Design Specialist at Harvard SEAS"
+job.title: "Ph.D. student at HCII"
 excerpt_separator: "<!--more-->"
 
 collections:
