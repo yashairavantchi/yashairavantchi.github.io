@@ -10,11 +10,9 @@ permalink: /about/
 
 Hello!
 
-I am a Ph.D. student at the [Human-Computer Interaction Institute at Carnegie Mellon](https://www.hcii.cmu.edu/)
+I am a Ph.D. student in the [Future Interfaces Group](http://www.figlab.com/) and Smart Sensing for Humans Lab at the [Human-Computer Interaction Institute at Carnegie Mellon](https://www.hcii.cmu.edu/). I am advised by [Chris Harrison](http://chrisharrison.net/) and [Mayank Goel](http://www.mayankgoel.com/). 
 
-I graduated from [Harvard College](https://college.harvard.edu) in 2014 with an S.B. degree in Engineering Sciences with a focus on Electrical Engineering/Computer Science and Biomedical Engineering.
-
-After completing my undergrad, I worked at the 
+Prior to CMU, I graduated from [Harvard College](https://college.harvard.edu) in 2014 with an S.B. degree in Engineering Sciences with a focus on Electrical Engineering/Computer Science and Biomedical Engineering. I worked at the 
 [Harvard University SEAS Active Learning Labs](https://www.seas.harvard.edu/active-learning-labs) as a Design Specialist in Electrical Engineering, supporting courses that involved significant hands-on labs and projects to further instruction in "Design Thinking". Most notably, I advised students in their Senior Capstone Project and was a Teaching Fellow for our biosignal processing course. Please see my ["Teaching"](http://yasha.xyz/academics/teaching/) and ["Talks"](http://yasha.xyz/academics/talks/) pages for more information.
 
 My research focus is on novel user interfaces and interaction, wearables, ubiquitous computing, and biological signal processing. Please see my ["Projects"](http://yasha.xyz/academics/projects/) and ["Research"](http://yasha.xyz/academics/research/) pages for more information. 
