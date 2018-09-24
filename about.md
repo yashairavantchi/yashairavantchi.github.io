@@ -5,7 +5,7 @@ description: Yasha Iravantchi is a Design Specialist at Harvard University SEAS 
 permalink: /about/
 ---
 
-{% include image.html url="/assets/pics/yasha_small.jpg" width=200 align="right" %}
+{% include image.html url="/assets/pics/yasha.png" width=200 align="right" %}
 ---
 
 Hello!
