@@ -4,7 +4,7 @@ author: Yasha Iravantchi # You :P
 description: > # Meta description of Homepage
   Yasha Iravantchi's personal website.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yasha.xyz" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://yasha.xyz" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
