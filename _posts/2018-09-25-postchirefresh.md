@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Post-CHI Refresh"
-featured-img: 
+featured-img: chi2019.png
 mathjax: true
 category: blog
 ---

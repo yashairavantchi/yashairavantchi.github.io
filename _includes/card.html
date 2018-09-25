@@ -12,8 +12,8 @@
     {% if post.featured-img %}
       <figure class="post-card__thumb">
         <img
-          src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{post.featured-img}}_placehold.jpg",
-          data-srcset="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{post.featured-img}}.png"
+          src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{post.featured-img}}",
+          data-srcset="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{post.featured-img}}"
           class="lazyload blur"
           alt="{{post.title}}"
         />
