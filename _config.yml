@@ -1,83 +1,66 @@
-# Site settings
-title: Yasha Iravantchi
-email: ysi [at] cs [dot] cmu [dot] edu
-description: > # this means to ignore newlines until "baseurl:"
+# SITE CONFIGURATION
+title: Yasha Iravantchi # your site title
+author: Yasha Iravantchi # You :P
+description: > # Meta description of Homepage
   Yasha Iravantchi's personal website.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yasha.xyz" # the base hostname & protocol for your site
-twitter_username: yashasir
-github_username:  yashairavantchi
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yasha.xyz" # the base hostname & protocol for your site, e.g. http://example.com
 
-# Build settings
+# SEO PLUGIN
+social:
+  name: Yasha Iravantchi
+  links:
+    - https://twitter.com/yashasir
+    - https://www.facebook.com/yashasir
+    - https://github.com/yashairavantchi
+
+# THEME SETTINGS
+navigation: # Navigation links
+  - {name: 'Home', link: '/'}
+  - {name: 'About', link: '/about'}
+  - {name: 'Academics', link: '/academics'}
+
+tagline: >
+  Ph.D. Student, Future Interfaces Group, SmaSH Lab, Carnegie Mellon University
+
+hero_img: posts/pittsburgh.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+
+email: ysi [at] cs [dot] cmu [dot] edu # email for form submission
+
+twitter_username: yashasir # replace with your_twitter_username or comment to remove link from footer
+github_username:  yashairavantchi # replace with your_github_username or comment to remove link from footer
+instagram_username: yashasir # replace with your_instagram_username or comment to remove link from footer
+
+disqus:
+  shortname: ## # to enable comments replace with your_disqus_shortname
+
+# google_tag_manager: GTM-XXXXXXX # Uncomment to enable GTM. Replace GTM-XXXXXXX with your GTM container ID
+
+service_worker: true
+
+# BUILD SETTINGS
 markdown: kramdown
+highlighter: rouge # or pygments or null
+# theme: jekyll-sleek # Uncomment if you're using the theme as a ruby gem
+exclude:
+  - README.md
+  - node_modules
+  - script
+  - package.json
+  - package-lock.json
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - npm-debug.log
+  - gulpfile.js
+  - sleek.jpg
 
-# Other options
-permalink: blog/:year/:month/:title
-job.title: "Ph.D. student at HCII"
-excerpt_separator: "<!--more-->"
+include: ['_pages']
+permalink: /:title/
 
-collections:
-  my_categories:
-    output: true
-    permalink: /blog/category/:name/
-  my_tags:
-    output: true
-    permalink: /blog/tag/:name/
+compress_html:
+  clippings: all
 
-# SEO stuff
-# google_author: ""
-# google_site_verification: ""
-# bing_webmastertools_id: ""
-exclude: [Gemfile, README.md]
-
-# Plugins
-gems:
-  - jekyll-paginate
+plugins:
   - jekyll-sitemap
-  - jekyll-feed
   - jekyll-seo-tag
-
-# Conversion
-markdown:    kramdown
-highlighter: rouge
-excerpt_separator: "\n\n\n"
-
-# Outputting
-permalink: /post/:title/
-paginate: 5
-paginate_path: '/blog/page/:num/'
-
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: pages
-    values:
-      layout: page
-  -
-    scope:
-      path: ""
-      type: posts
-    values:
-      layout: post
-  -
-    scope:
-      path: ""
-      type: my_categories
-    values:
-      layout: blog_by_category
-  -
-    scope:
-      path: ""
-      type: my_tags
-    values:
-      layout: blog_by_tag
-  -
-    scope:
-      path: "project"
-    values:
-      layout: project
-
-sass:
-  style: compressed
