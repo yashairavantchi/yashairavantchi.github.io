@@ -4,7 +4,7 @@ title: About
 description: Yasha Iravantchi is a Ph.D. student at CMU HCII
 permalink: /about/
 ---
-![Yasha Iravantchi](/assets/pics/yasha.png){:class="img-responsive"}
+![Yasha Iravantchi](/assets/pics/yasha.jpg){:class="lazyload blur"}
 
 <!-- {% include image.html url="/assets/pics/yasha.png" width=500 align="right" %} -->
 ---
