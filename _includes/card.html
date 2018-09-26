@@ -12,10 +12,12 @@
     {% if post.featured-img %}
       <figure class="post-card__thumb">
         <img
+
           src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{post.featured-img}}",
           data-srcset="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{post.featured-img}}"
           class="lazyload blur"
           alt="{{post.title}}"
+          style="width: auto; height: auto; vertical-align: middle;  top: 50%; transform: translateY(-50%);"
         />
         <noscript><img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{post.featured-img}}_thumb.jpg" alt="{{ post.title }}"></noscript>
       </figure>
