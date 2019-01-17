@@ -7,6 +7,12 @@ description: Yasha Iravantchi's publications
 
 ## Publications
 
+### 2019
+
+**Yasha Iravantchi**, Yang Zhang, Evi Bernitsas, Mayank Goel, Chris Harrison. Interferi: Gesture Sensing using On-Body Acoustic Interferometry. _To Appear_ In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI ’19), 2019
+
+**Yasha Iravantchi**, Mayank Goel, Chris Harrison. BeamBand: Hand Gesture Sensing with Ultrasonic Beamforming. _To Appear_ In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI ’19), 2019
+
 ### 2016
 
 Sunyoung Kim, **Yasha Iravantchi**, Krzysztof Z. Gajos, and Barbara Grosz. SwellFit: a Wearable Sensor for Patients with Congestive Heart Failure. In *Proceedings of the Workshop on Interactive Systems in Healthcare (WISH) 2016*, 2016.
