@@ -13,6 +13,9 @@ description: Yasha Iravantchi's publications
 
 **Yasha Iravantchi**, Mayank Goel, Chris Harrison. BeamBand: Hand Gesture Sensing with Ultrasonic Beamforming. _To Appear_ In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI ’19), 2019
 
+Sunyoung Kim, **Yasha Iravantchi**, Krzysztof Z. Gajos. SwellFit: Developing a Wearable Sensor for Monitoring Peripheral Edema. In Proceedings of the 52nd Hawaii International Conference on System Sciences (HICSS-52), 2019
+[![pdf](/assets/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdf/skim19swellfit.pdf)
+
 ### 2016
 
 Sunyoung Kim, **Yasha Iravantchi**, Krzysztof Z. Gajos, and Barbara Grosz. SwellFit: a Wearable Sensor for Patients with Congestive Heart Failure. In *Proceedings of the Workshop on Interactive Systems in Healthcare (WISH) 2016*, 2016.
