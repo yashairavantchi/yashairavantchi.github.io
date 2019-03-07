@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SwellFit Presented at HICSS 52"
-featured-img: chi2019.png
+featured-img: hicss.png
 mathjax: true
 category: Papers
 ---
