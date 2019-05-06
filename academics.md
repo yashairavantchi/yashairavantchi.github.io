@@ -9,9 +9,13 @@ description: Yasha Iravantchi's publications
 
 ### 2019
 
-**Yasha Iravantchi**, Yang Zhang, Evi Bernitsas, Mayank Goel, Chris Harrison. Interferi: Gesture Sensing using On-Body Acoustic Interferometry. _To Appear_ In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI ’19), 2019
+**Yasha Iravantchi**, Yang Zhang, Evi Bernitsas, Mayank Goel, and Chris Harrison. 2019. Interferi: Gesture Sensing using On-Body Acoustic Interferometry. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19). ACM, New York, NY, USA, Paper 276, 13 pages. DOI: https://doi.org/10.1145/3290605.3300506 **_Best Paper HM Award_**
+[![pdf](/assets/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdf/Iravantchi19Interferi.pdf)
 
-**Yasha Iravantchi**, Mayank Goel, Chris Harrison. BeamBand: Hand Gesture Sensing with Ultrasonic Beamforming. _To Appear_ In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI ’19), 2019
+
+**Yasha Iravantchi**, Mayank Goel, and Chris Harrison. 2019. BeamBand: Hand Gesture Sensing with Ultrasonic Beamforming. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19). ACM, New York, NY, USA, Paper 15, 10 pages. DOI: https://doi.org/10.1145/3290605.3300245
+[![pdf](/assets/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdf/Iravantchi19BeamBand.pdf)
+
 
 Sunyoung Kim, **Yasha Iravantchi**, Krzysztof Z. Gajos. SwellFit: Developing a Wearable Sensor for Monitoring Peripheral Edema. In Proceedings of the 52nd Hawaii International Conference on System Sciences (HICSS-52), 2019
 [![pdf](/assets/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdf/skim19swellfit.pdf)
