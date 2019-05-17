@@ -11,7 +11,7 @@ permalink: /about/
 
 Hello!
 
-I am a Ph.D. student in the [Future Interfaces Group](http://www.figlab.com/) and Smart Sensing for Humans Lab at the [Human-Computer Interaction Institute at Carnegie Mellon](https://www.hcii.cmu.edu/). I am advised by [Chris Harrison](http://chrisharrison.net/) and [Mayank Goel](http://www.mayankgoel.com/). 
+I am a Ph.D. student at [Carnegie Mellon](https://cmu.edu/). 
 
 Prior to joining CMU, I graduated from [Harvard College](https://college.harvard.edu) in 2014 with an S.B. degree in Engineering Sciences with a focus on Electrical Engineering/Computer Science and Biomedical Engineering. I worked at the 
 [Harvard University SEAS Active Learning Labs](https://www.seas.harvard.edu/active-learning-labs) as a Design Specialist in Electrical Engineering. 
@@ -23,8 +23,6 @@ My research focus is on novel user interfaces and interaction, wearables, ubiqui
 #### Contact:
 
 Yasha Iravantchi
-
-Carnegie Mellon University
 
 Email: ysi [at] cs [dot] cmu [dot] edu
 

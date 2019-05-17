@@ -21,7 +21,7 @@ navigation: # Navigation links
   - {name: 'Academics', link: '/academics'}
 
 tagline: >
-  Ph.D. Student, Future Interfaces Group, SmaSH Lab, Carnegie Mellon University
+  
 
 hero_img: posts/pittsburgh.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
