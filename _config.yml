@@ -10,8 +10,8 @@ url: "https://yasha.xyz" # the base hostname & protocol for your site, e.g. http
 social:
   name: Yasha Iravantchi
   links:
-    - https://twitter.com/yashasir
-    - https://www.facebook.com/yashasir
+    # - https://twitter.com/yashasir
+    # - https://www.facebook.com/yashasir
     - https://github.com/yashairavantchi
 
 # THEME SETTINGS
@@ -23,13 +23,13 @@ navigation: # Navigation links
 tagline: >
   
 
-hero_img: posts/pittsburgh.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/LA.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
-email: ysi [at] cs [dot] cmu [dot] edu # email for form submission
+email: yasha [at] yasha [dot] xyz # email for form submission
 
-twitter_username: yashasir # replace with your_twitter_username or comment to remove link from footer
+# twitter_username: yashasir # replace with your_twitter_username or comment to remove link from footer
 github_username:  yashairavantchi # replace with your_github_username or comment to remove link from footer
-instagram_username: yashasir # replace with your_instagram_username or comment to remove link from footer
+# instagram_username: yashasir # replace with your_instagram_username or comment to remove link from footer
 
 disqus:
   shortname: ## # to enable comments replace with your_disqus_shortname

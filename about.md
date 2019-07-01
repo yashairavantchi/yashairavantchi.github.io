@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: Yasha Iravantchi is a Ph.D. student at CMU HCII
+description: Yasha Iravantchi is a Ph.D. student at CMU
 permalink: /about/
 ---
 ![Yasha Iravantchi](/assets/pics/yasha.jpg){:class="lazyload blur"}
@@ -24,22 +24,4 @@ My research focus is on novel user interfaces and interaction, wearables, ubiqui
 
 Yasha Iravantchi
 
-Email: ysi [at] cs [dot] cmu [dot] edu
-
-
----
-<!-- 
-<div class="container">
-<h4><a name="contact"></a>contact</h4>
-
-    <div class="row-fluid">
-        <div class="span5">
-            Yasha Iravantchi<br/>
-            <a href="https://www.hcii.cmu.edu/">Human-Computer Interation Institute</a>, <a href="https://cmu.edu">Carnegie Mellon University</a><br/>
-            5000 Forbes Ave.<br/>
-            Pittsburgh, PA 15213<br/>
-            USA<br/><br/>
-
-            <div id="hide_email">
-            Email: ysi [at] cs [dot] cmu [dot] edu
-            </div> -->
+Email: yasha [at] yasha [dot] xyz
