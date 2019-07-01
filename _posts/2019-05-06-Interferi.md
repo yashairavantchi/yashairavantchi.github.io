@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Interferi Presented at CHI"
-featured-img: interferi.png
+featured-img: interferi.jpg
 mathjax: true
 category: Papers
 ---

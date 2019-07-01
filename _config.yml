@@ -23,7 +23,7 @@ navigation: # Navigation links
 tagline: >
   
 
-hero_img: posts/LA.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/LA_fast.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: yasha [at] yasha [dot] xyz # email for form submission
 
