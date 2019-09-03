@@ -11,7 +11,7 @@ permalink: /about/
 
 Hello!
 
-
+I am a CSE Ph.D. student at [University of Michigan EECS](https://www.eecs.umich.edu/). I am advised by [Alanson Sample](http://www.alansonsample.com/). 
 
 I graduated from [Harvard College](https://college.harvard.edu) in 2014 with an S.B. degree in Engineering Sciences with a focus on Electrical Engineering/Computer Science and Biomedical Engineering. I worked at the 
 [Harvard University SEAS Active Learning Labs](https://www.seas.harvard.edu/active-learning-labs) as a Design Specialist in Electrical Engineering. 
