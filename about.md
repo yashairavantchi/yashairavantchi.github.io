@@ -4,7 +4,7 @@ title: About
 description: Yasha Iravantchi
 permalink: /about/
 ---
-![Yasha Iravantchi](/assets/pics/yasha.jpg){:class="lazyload blur"}
+![Yasha S. Iravantchi](/assets/pics/yasha.jpg){:class="lazyload blur"}
 
 <!-- {% include image.html url="/assets/pics/yasha.png" width=500 align="right" %} -->
 ---
@@ -22,6 +22,6 @@ My research focus is on novel user interfaces and interaction, wearables, ubiqui
 
 #### Contact:
 
-Yasha Iravantchi
+Yasha Stephen Iravantchi
 
 Email: yasha [at] yasha [dot] xyz
