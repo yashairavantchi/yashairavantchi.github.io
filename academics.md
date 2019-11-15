@@ -9,6 +9,9 @@ description: Yasha Iravantchi's publications
 
 ### 2019
 
+Yang Zhang, **Yasha Iravantchi**, Haojian Jin, Swarun Kumar, and Chris Harrison. 2019. Sozu: Self-Powered Radio Tags for Building-Scale Activity Sensing. In Proceedings of the 32nd Annual ACM Symposium on User Interface Software and Technology (UIST '19). ACM, New York, NY, USA, 973-985. DOI: https://doi.org/10.1145/3332165.3347952 
+
+
 **Yasha Iravantchi**, Yang Zhang, Evi Bernitsas, Mayank Goel, and Chris Harrison. 2019. Interferi: Gesture Sensing using On-Body Acoustic Interferometry. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19). ACM, New York, NY, USA, Paper 276, 13 pages. DOI: https://doi.org/10.1145/3290605.3300506 **_Best Paper HM Award_**
 [![pdf](/assets/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdf/Iravantchi19Interferi.pdf)
 
