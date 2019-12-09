@@ -7,20 +7,25 @@ description: Yasha Iravantchi's publications
 
 ## Publications
 
+### 2020
+
+**Yasha Iravantchi**, Mayank Goel, Chris Harrison. Digital Ventriloquism: Giving Voice to Everyday Objects. *To Appear In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI ’20), 2020*
+
 ### 2019
 
-Yang Zhang, **Yasha Iravantchi**, Haojian Jin, Swarun Kumar, and Chris Harrison. 2019. Sozu: Self-Powered Radio Tags for Building-Scale Activity Sensing. In Proceedings of the 32nd Annual ACM Symposium on User Interface Software and Technology (UIST '19). ACM, New York, NY, USA, 973-985. DOI: https://doi.org/10.1145/3332165.3347952 
+Yang Zhang, **Yasha Iravantchi**, Haojian Jin, Swarun Kumar, and Chris Harrison. 2019. Sozu: Self-Powered Radio Tags for Building-Scale Activity Sensing. *In Proceedings of the 32nd Annual ACM Symposium on User Interface Software and Technology (UIST '19). ACM, New York, NY, USA, 973-985.* [DOI](https://doi.org/10.1145/3332165.3347952)
 
 
-**Yasha Iravantchi**, Yang Zhang, Evi Bernitsas, Mayank Goel, and Chris Harrison. 2019. Interferi: Gesture Sensing using On-Body Acoustic Interferometry. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19). ACM, New York, NY, USA, Paper 276, 13 pages. DOI: https://doi.org/10.1145/3290605.3300506 **_Best Paper HM Award_**
+**Yasha Iravantchi**, Yang Zhang, Evi Bernitsas, Mayank Goel, and Chris Harrison. 2019. Interferi: Gesture Sensing using On-Body Acoustic Interferometry. *In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19). ACM, New York, NY, USA, Paper 276, 13 pages.* [DOI](https://doi.org/10.1145/3290605.3300506) **_Best Paper HM Award_**
 [![pdf](/assets/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdf/Iravantchi19Interferi.pdf)
 
 
-**Yasha Iravantchi**, Mayank Goel, and Chris Harrison. 2019. BeamBand: Hand Gesture Sensing with Ultrasonic Beamforming. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19). ACM, New York, NY, USA, Paper 15, 10 pages. DOI: https://doi.org/10.1145/3290605.3300245
+**Yasha Iravantchi**, Mayank Goel, and Chris Harrison. 2019. *BeamBand: Hand Gesture Sensing with Ultrasonic Beamforming. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19). ACM, New York, NY, USA, Paper 15, 10 pages.* [DOI](https://doi.org/10.1145/3290605.3300245) 
 [![pdf](/assets/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdf/Iravantchi19BeamBand.pdf)
 
 
-Sunyoung Kim, **Yasha Iravantchi**, Krzysztof Z. Gajos. SwellFit: Developing a Wearable Sensor for Monitoring Peripheral Edema. In Proceedings of the 52nd Hawaii International Conference on System Sciences (HICSS-52), 2019
+Sunyoung Kim, **Yasha Iravantchi**, Krzysztof Z. Gajos. SwellFit: Developing a Wearable Sensor for Monitoring Peripheral Edema. *In Proceedings of the 52nd Hawaii International Conference on System Sciences (HICSS-52), 2019*
+[Handle](https://scholarspace.manoa.hawaii.edu/handle/10125/59823) 
 [![pdf](/assets/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdf/skim19swellfit.pdf)
 
 ### 2016
