@@ -17,7 +17,7 @@ Yang Zhang, **Yasha Iravantchi**, Haojian Jin, Swarun Kumar, and Chris Harrison.
 [![pdf](/assets/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdf/Zhang19Sozu.pdf)
 
 
-**Yasha Iravantchi**, Yang Zhang, Evi Bernitsas, Mayank Goel, and Chris Harrison. 2019. Interferi: Gesture Sensing using On-Body Acoustic Interferometry. *In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19). ACM, New York, NY, USA, Paper 276, 13 pages.* [DOI](https://doi.org/10.1145/3290605.3300506) **_Best Paper HM Award_**
+**Yasha Iravantchi**, Yang Zhang, Evi Bernitsas, Mayank Goel, and Chris Harrison. 2019. Interferi: Gesture Sensing using On-Body Acoustic Interferometry. *In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19). ACM, New York, NY, USA, Paper 276, 13 pages.*  [**_Best Paper HM Award_**](https://doi.org/10.1145/3290605.3300506) [DOI](https://doi.org/10.1145/3290605.3300506)
 [![pdf](/assets/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdf/Iravantchi19Interferi.pdf)
 
 
