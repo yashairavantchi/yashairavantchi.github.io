@@ -9,7 +9,8 @@ description: Yasha Iravantchi's publications
 
 ### 2020
 
-**Yasha Iravantchi**, Mayank Goel, Chris Harrison. Digital Ventriloquism: Giving Voice to Everyday Objects. *To Appear In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI ’20), 2020*
+**Yasha Iravantchi**, Mayank Goel, Chris Harrison. Digital Ventriloquism: Giving Voice to Everyday Objects. *In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI ’20), 2020* [DOI](https://doi.org/10.1145/3313831.3376503)
+[![pdf](/assets/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdf/Iravantchi20DV.pdf)
 
 ### 2019
 
