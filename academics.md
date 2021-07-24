@@ -8,7 +8,7 @@ description: Yasha Iravantchi's publications
 ## Publications
 
 ### 2021
-**Yasha Iravantchi**, Karan Ahuja, Mayank Goel, Chris Harrison, Alanson Sample. PrivacyMic: UtilizingInaudibleFrequenciesforPrivacyPreservingDailyActivityRecognition. *In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI ’21), 2021* [**_Best Paper HM Award_**](https://doi.org/10.1145/3411764.3445169) [DOI](https://doi.org/10.1145/3411764.3445169)
+**Yasha Iravantchi**, Karan Ahuja, Mayank Goel, Chris Harrison, Alanson Sample. PrivacyMic: Utilizing Inaudible Frequencies for Privacy Preserving Daily Activity Recognition. *In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI ’21), 2021* [**_Best Paper HM Award_**](https://doi.org/10.1145/3411764.3445169) [DOI](https://doi.org/10.1145/3411764.3445169)
 [![pdf](/assets/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdf/Iravantchi21PrivacyMic.pdf)
 
 ### 2020
