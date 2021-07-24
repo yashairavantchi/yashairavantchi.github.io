@@ -7,6 +7,10 @@ description: Yasha Iravantchi's publications
 
 ## Publications
 
+### 2021
+**Yasha Iravantchi**, Karan Ahuja, Mayank Goel, Chris Harrison, Alanson Sample. PrivacyMic: UtilizingInaudibleFrequenciesforPrivacyPreservingDailyActivityRecognition. *In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI ’21), 2021* [**_Best Paper HM Award_**](https://doi.org/10.1145/3411764.3445169) [DOI](https://doi.org/10.1145/3411764.3445169)
+[![pdf](/assets/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdf/Iravantchi21PrivacyMic.pdf)
+
 ### 2020
 
 **Yasha Iravantchi**, Mayank Goel, Chris Harrison. Digital Ventriloquism: Giving Voice to Everyday Objects. *In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (CHI ’20), 2020* [DOI](https://doi.org/10.1145/3313831.3376503)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Interferi Presented at CHI"
+title: "Interferi Receives Best Paper HM at CHI"
 featured-img: interferi.jpg
 mathjax: true
 category: Papers
