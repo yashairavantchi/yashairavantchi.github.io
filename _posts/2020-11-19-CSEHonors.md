@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2020 CSE Graduate Honors Competition Winner"
+title: "2020 CSE Graduate Honors Competition"
 featured-img: CSEHonors.jpg
 mathjax: true
 category: Awards
