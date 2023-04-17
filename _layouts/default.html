@@ -28,9 +28,12 @@ layout: compress
 
     <div class="hero--small">
       <div class="hero__wrap">
-        <h1 class="hero__title">{{ page.title }}</h1>
+        <h1 class="hero__title">{{ site.title | escape }}</h1>
       </div>
     </div>
+
+    
+
 
     <main class="site__content">
       <section class="blog">
