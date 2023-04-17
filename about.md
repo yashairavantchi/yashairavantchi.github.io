@@ -4,7 +4,7 @@ title: About
 description: Yasha Iravantchi
 permalink: /about/
 ---
-![Yasha S. Iravantchi](/assets/pics/yasha.jpg){:class="lazyload blur" width=250}
+![Yasha S. Iravantchi](/assets/pics/yasha.jpg){:class="lazyload blur"}{:max-width=25%}
 
 <!-- {% include image.html url="/assets/pics/yasha.png" width=500 align="right" %} -->
 ---
