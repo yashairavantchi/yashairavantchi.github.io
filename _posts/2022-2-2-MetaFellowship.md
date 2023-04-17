@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2022 Meta PhD Research Fellowship Winner"
+title: "2022 Meta PhD Research Fellowship"
 featured-img: MetaFellowship.jpg
 mathjax: true
 category: Awards
