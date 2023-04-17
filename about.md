@@ -19,6 +19,7 @@ I graduated from [Harvard College](https://college.harvard.edu) in 2014 with an 
 My research focus is on solving the challenges of continuous remote health monitoring and activity inferencing by developing novel sensing hardware and privacy-preserved sensing approaches. Please see my ["Academics"]({{ BASE_PATH }}/academics/) page for more information. 
 
 [curriculum vitae ![CV as pdf](/assets/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdf/IravantchiCV.pdf)
+{% include embedpdf.html width=100 height=800 %}
 
 #### Contact:
 
