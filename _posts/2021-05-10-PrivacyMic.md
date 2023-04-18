@@ -3,7 +3,7 @@ layout: post
 title: "PrivacyMic Receives Best Paper HM at CHI"
 featured-img: pm.jpg
 mathjax: true
-category: Papers
+category: Papers, Awards
 ---
 
 
