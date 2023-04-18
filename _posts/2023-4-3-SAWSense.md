@@ -3,7 +3,7 @@ layout: post
 title: "SAWSense Receives Best Paper at CHI"
 featured-img: sawsense.png
 mathjax: true
-category: Papers
+category: [Papers, Awards]
 ---
 
 
