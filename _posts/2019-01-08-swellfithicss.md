@@ -10,6 +10,6 @@ Peripheral edema is a swelling of the legs, feet, or hands due to the accumulati
 
 
 
-[HCISS Link](http://hdl.handle.net/10125/598236) [![pdf](/assets/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdf/skim19swellfit.pdf)
+[HCISS Link](http://hdl.handle.net/10125/59823) [![pdf](/assets/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdf/skim19swellfit.pdf)
 
 
