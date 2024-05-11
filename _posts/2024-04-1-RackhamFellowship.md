@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2024 Rackham Predoctoral Fellowship"
-featured-img: rackham.png
+featured-img: rackham.jpg
 mathjax: true
 category: Awards
 ---
