@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BrushLens To Appear at UIST"
+title: "BrushLens Presented at UIST"
 featured-img: brushlens.jpg
 mathjax: true
 category: Papers
