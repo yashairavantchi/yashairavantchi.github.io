@@ -7,7 +7,7 @@ permalink: /about/
 
 
 <!-- {% include image.html url="/assets/pics/yasha.png" width=500 align="right" %} -->
-![Yasha S. Iravantchi](/assets/pics/yasha.jpg){:class="lazyload blur"}{:max-width=50%}{: style="float: left; margin-right: 1em;"}
+![Yasha S. Iravantchi](/assets/pics/yasha.jpg){:class="lazyload blur" :style="width=50%; float: left; margin: 0px 15px 15px 0px;"}
 
 Hello there!
 
