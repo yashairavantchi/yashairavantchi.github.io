@@ -4,10 +4,10 @@ title: About
 description: Yasha Iravantchi
 permalink: /about/
 ---
-![Yasha S. Iravantchi](/assets/pics/yasha.jpg){:class="lazyload blur"}{:max-width=50%}{: style="float: left; margin-right: 1em;"}
+
 
 <!-- {% include image.html url="/assets/pics/yasha.png" width=500 align="right" %} -->
----
+![Yasha S. Iravantchi](/assets/pics/yasha.jpg){:class="lazyload blur"}{:max-width=50%}{: style="float: left; margin-right: 1em;"}
 
 Hello there!
 
@@ -17,6 +17,8 @@ Prior to the University of Michigan, I graduated from [Harvard College](https://
 [Harvard University SEAS Active Learning Labs](https://www.seas.harvard.edu/active-learning-labs) as a Design Specialist in Electrical Engineering. 
 
 My research focuses on solving the challenges of continuous remote health monitoring and activity inferencing by developing novel sensing hardware and privacy-preserved sensing approaches. Please see my CV below for more information. 
+
+---
 
 [curriculum vitae ![CV as pdf](/assets/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/pdf/IravantchiCV.pdf)
 {% include embedpdf.html width=100 height=800 %}
