@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PrivacyLens to Appear at PETS"
+title: "PrivacyLens Presented at PETS"
 featured-img: privacylens.png
 mathjax: true
 category: Papers
