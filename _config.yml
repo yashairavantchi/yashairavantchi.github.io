@@ -17,7 +17,11 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
-  - {name: 'About', link: '/about'}
+  - {name: 'CV', link: 'https://yasha.xyz/assets/pdf/IravantchiCV.pdf'}
+  - {name: 'Google Scholar', link: 'https://scholar.google.com/citations?user=zuRMGqYAAAAJ&hl=en&oi=ao'}
+  - {name: 'The ISC Lab', link: 'https://theisclab.com/'}
+
+ 
   # - {name: 'Academics', link: '/academics'}
 
 tagline: >

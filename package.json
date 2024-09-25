@@ -9,7 +9,8 @@
     "lazysizes": "^5.2.1-rc1",
     "normalize.css": "^7.0.0",
     "picturefill": "^3.0.2",
-    "velocity-animate": "^1.5.0"
+    "velocity-animate": "^1.5.0",
+    "jekyll-analytics": "^1.0.0"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",

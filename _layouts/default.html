@@ -2,84 +2,108 @@
 layout: compress
 ---
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
+<html lang="{{ page.lang | default: site.lang | default: " en-US" }}">
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body class="site">
+<body class="site">
 
-    {% if site.google_tag_manager %}
+  {% if site.google_tag_manager %}
 
-      <!-- Google Tag Manager (noscript) -->
-      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.google_tag_manager }}"
-      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-      <!-- End Google Tag Manager (noscript) -->
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.google_tag_manager }}" height="0" width="0"
+      style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
 
-    {% endif %}
+  {% endif %}
 
-    {% include header.html %}
+  {% include header.html %}
 
-    <!-- <div class="hero lazyload" data-bg="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.hero_img }}">
+  <!-- <div class="hero lazyload" data-bg="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.hero_img }}">
       <div class="hero__wrap">
         <h1 class="hero__title">{{ site.title | escape }}</h1>
         <p class="hero__meta">{{ site.tagline }}</p>
       </div>
     </div> -->
 
-    <div class="hero--small">
-      <div class="hero__wrap">
-        <h1 class="hero__title">{{ site.title | escape }}</h1>
+  <!-- <div class="hero--small"> -->
+  <!-- <div class="hero__wrap"> -->
+  <h1 class="hero__title">{{ site.title | escape }}</h1>
+  <!-- </div> -->
+  <!-- </div> -->
+
+
+  <main class="site__content">
+    <div class="container">
+      <div class="page-content">
+        <div>
+          <img src="/assets/pics/yasha.jpg" class="lazyload blur"
+            style="width: 33%; float: left; margin: 0px 15px 15px 0px;" />
+        </div>
+
+        <div>
+          <p class="paragraph" float:right>
+
+            Hello there!
+
+            I am Yasha Iravantchi, a CSE Ph.D. Candidate at <a href="https://www.eecs.umich.edu/">University of Michigan
+              EECS</a>, a <a
+              href="https://research.facebook.com/blog/2022/2/announcing-the-recipients-of-the-2022-meta-phd-research-fellowship/">2022
+              Meta PhD Research Fellow</a>, and a <a
+              href="https://cse.engin.umich.edu/stories/yasha-iravantchi-receives-rackham-predoctoral-fellowship">2024
+              Rackham Predoctoral Fellow</a>.
+            I am advised by <a href="http://www.alansonsample.com/">Alanson Sample</a>.
+          </p>
+        </div>
+        <div>
+          <p class="paragraph" float:right>
+            My research blends novel sensing approaches with usable privacy and interaction techniques to develop usable
+            and ubiquitous privacy-aware sensors to tackle challenges in continuous remote health monitoring and
+            activity inferencing. Please see my <a href="https://yasha.xyz/assets/pdf/IravantchiCV.pdf">CV</a> and <a
+              href="https://scholar.google.com/citations?user=zuRMGqYAAAAJ&hl=en&oi=ao">Google Scholar</a> for more
+            information.
+          </p>
+        </div>
+
+        <div>
+          <img src="/assets/pics/upas.jpg" class="lazyload blur"
+            style="width: 100%; float: none; margin: 0px 15px 15px 0px;" />
+        </div>
+
+        <!-- <div>
+                                <p class="paragraph" float:right>
+                Prior to joining the University of Michigan, I graduated from Harvard College in 2014 with an S.B. degree in Engineering Sciences with a focus on Electrical Engineering/Computer Science and Biomedical Engineering. Afterwards, I worked at the <a href="https://www.seas.harvard.edu/active-learning-labs">Harvard University SEAS Active Learning Labs</a> as a Design Specialist in Electrical Engineering, where I developed hands-on EE curriculum and supported students in hardware design. Most notably, I assisted in the development of a new course on wearable signal processing, which was featured at SciPyCon 2016.
+                              </p>
+                              </div> -->
+        <p class="paragraph" float:right, style='color:#A51C30'>
+          <strong>
+            I will be on the job market in Fall 2024. I am eager to hear about opportunities in both academic and
+            industry research positions, so please don't hesitate to reach out!</strong>
+        </p>
+        <div>
+
+        </div>
+
       </div>
-    </div>
+  </main>
 
+  <main class="site__content">
+    <section class="blog">
+      <div class="container">
+        <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
 
-    <main class="site__content">
-        <div class="container">
-          <div class="page-content">
-            <div>
-              <img src="/assets/pics/yasha.jpg" class="lazyload blur" style="width: 50%; float: left; margin: 0px 15px 15px 0px;"/>
-            </div>
-          
-            <div>
-              <p class="paragraph" float:right>
+          {% for post in site.posts %}
+          {% include card.html %}
+          {% endfor %}
 
-                Hello there!
-
-                I am a CSE Ph.D. Candidate at <a href="https://www.eecs.umich.edu/">University of Michigan EECS</a>, a <a href="https://research.facebook.com/blog/2022/2/announcing-the-recipients-of-the-2022-meta-phd-research-fellowship/">2022 Meta PhD Research Fellow</a>, and a <a href="https://cse.engin.umich.edu/stories/yasha-iravantchi-receives-rackham-predoctoral-fellowship">2024 Rackham Predoctoral Fellow</a>.
-                I am advised by <a href="http://www.alansonsample.com/">Alanson Sample</a>. 
-
-                My research focuses on solving the challenges of continuous remote health monitoring and activity inferencing by developing novel sensing hardware and privacy-preserved sensing approaches.
-
-              </p>
-            </div>
-              <p class="paragraph" float:right, style='color:#A51C30'>
-                <strong>
-                I will be on the job market in Fall 2024. I am eager to hear about opportunities in both academic and industry research positions, so please don't hesitate to reach out!</strong>
-              </p>
-            <div>
-
-            </div>
- 
+          <!-- {% include pagination.html %} -->
         </div>
-    </main>
+      </div>
+    </section>
+  </main>
 
-    <main class="site__content">
-      <section class="blog">
-        <div class="container">
-          <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
+  {% include footer.html %}
 
-            {% for post in site.posts %}
-              {% include card.html %}
-            {% endfor %}
-
-            <!-- {% include pagination.html %} -->
-          </div>
-        </div>
-      </section>
-    </main>
-
-    {% include footer.html %}
-
-  </body>
+</body>
 
 </html>
