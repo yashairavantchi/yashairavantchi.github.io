@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ubichromics Presented at ISS"
-featured-img: Ubichromics.png
+featured-img: Ubichromics.jpg
 mathjax: true
 category: Papers
 ---
